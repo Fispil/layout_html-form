@@ -1,1 +1,9 @@
-/* styles go here */
+.field__form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.field {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
