@@ -1,9 +1,11 @@
 .field__form {
   display: block;
-  margin-bottom: 10px;
 }
 
 .field {
   margin-bottom: 20px;
-  padding-bottom: 0;
+}
+
+.field__form:not(:last-child) {
+  margin-bottom: 10px;
 }
